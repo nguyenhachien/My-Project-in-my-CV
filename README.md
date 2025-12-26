@@ -22,17 +22,17 @@ Phần này tập trung vào việc tìm hiểu thói quen ăn uống của ngư
 ### 1. Cơ cấu món ăn theo mùa
 Biểu đồ tròn cho thấy sự tăng trưởng dần đều về sự quan tâm của người dùng đối với các món ăn mùa đông qua từng năm, đạt đỉnh vào năm 2025 với **36.7%**.
 
-![Cơ cấu món ăn theo mùa](Biểu đồ thể hiện cơ cấu giữa món ăn và mùa.png) 
+![Cơ cấu món ăn theo mùa](./Biểu đồ thể hiện cơ cấu giữa món ăn và mùa.png) 
 
 ### 2. Phân loại thực phẩm (Food Categories)
 Qua biểu đồ cột, chúng ta thấy **Đồ uống (Drink)** chiếm số lượng áp đảo (hơn 60 món), theo sau là Soup và Snack. Điều này cho thấy nhu cầu giữ ấm cơ thể bằng đồ uống nóng trong mùa đông là rất lớn.
 
-![Số lượng món ăn theo kiểu](Biểu đồ thể hiện số lượng món ăn theo kiểu ăn.png)
+![Số lượng món ăn theo kiểu](./Biểu đồ thể hiện số lượng món ăn theo kiểu ăn.png)
 
 ### 3. Tương quan giữa Calo và Độ phổ biến
 Biểu đồ phân tán (Scatter Plot) cho thấy sự phân bổ đa dạng. Đặc biệt, có một cụm dữ liệu tập trung mạnh ở mức **240 Calories**, nơi mà cả Drink, Snack và Soup đều có điểm Popularity trải dài từ thấp đến cao.
 
-![Tương quan Calo và Popularity](Biểu đồ phân tán thể hiện giữa lượng Calories và chỉ số Popularity.png)
+![Tương quan Calo và Popularity](./Biểu đồ phân tán thể hiện giữa lượng Calories và chỉ số Popularity.png)
 
 
 ---
