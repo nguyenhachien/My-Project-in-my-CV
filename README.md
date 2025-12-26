@@ -37,11 +37,11 @@ Biểu đồ phân tán (Scatter Plot) cho thấy sự phân bổ đa dạng. Đ
 
 ---
 
-## 🚚 Phần 2: Dashboard Vận hành Logistics (Power BI)
+## Phần 2: Dashboard Vận hành Logistics (Power BI)
 
 Dashboard cung cấp cái nhìn toàn diện về tình hình kinh doanh tính đến ngày 25/12/2025.
 
-![Logistics Dashboard](DATA_ANALYST_PERSONAL_PORTFOLIO_PROJECT.jpg)
+![Logistics Dashboard](DATA_ANALYST_PERSONAL_PORTFOLIO_LOGISTIC_PROJECT.jpg)
 
 ### Các chỉ số chính (KPIs):
 * **Tổng doanh thu:** 77.65 triệu VNĐ.
@@ -55,11 +55,11 @@ Dashboard cung cấp cái nhìn toàn diện về tình hình kinh doanh tính �
 
 ---
 
-## 💡 Kết luận & Đề xuất (Insights & Recommendations)
+## Kết luận & Đề xuất (Insights & Recommendations)
 * **Ẩm thực:** Các doanh nghiệp F&B nên tập trung đẩy mạnh menu đồ uống vào mùa đông năm 2025 vì đây là phân khúc có số lượng và sự quan tâm cao nhất.
 * **Logistics:** Cần tối ưu hóa chi phí vận chuyển vì nó đang chiếm gần bằng tổng chi phí phải trả. Cần xem xét lại hiệu suất đội xe Motorbike để giảm tải cho xe Van.
 
 ---
 
-## 👋 Liên hệ
+## Liên hệ
 * **Email:** nguyenhachien070104@gmail.com
