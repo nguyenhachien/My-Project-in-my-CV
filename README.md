@@ -1,13 +1,13 @@
 # Data Analyst Personal Portfolio Project
 
-## 📌 Tổng quan dự án (Project Overview)
+## Tổng quan dự án (Project Overview)
 Dự án này bao gồm hai phân tích dữ liệu chính nhằm chứng minh kỹ năng xử lý dữ liệu đa dạng:
 1.  **Phân tích hành vi ẩm thực mùa đông:** Sử dụng **Python (Pandas, Matplotlib, Seaborn)** để khám phá xu hướng ăn uống qua các năm.
 2.  **Dashboard Quản trị Logistics:** Sử dụng **Power BI** để tối ưu hóa theo dõi vận hành, doanh thu và vận chuyển.
 
 ---
 
-## 🛠 Công cụ sử dụng (Tech Stack)
+## Công cụ sử dụng (Tech Stack)
 * **Ngôn ngữ:** Python (Phân tích & Trực quan hóa)
 * **Công cụ BI:** Power BI
 * **Thư viện Python:** Pandas, Matplotlib, Seaborn
@@ -15,7 +15,7 @@ Dự án này bao gồm hai phân tích dữ liệu chính nhằm chứng minh k
 
 ---
 
-## 🍽 Phần 1: Phân tích Ẩm thực Mùa đông (Python Analysis)
+## Phần 1: Phân tích Ẩm thực Mùa đông (Python Analysis)
 
 Phần này tập trung vào việc tìm hiểu thói quen ăn uống của người dùng trong giai đoạn mùa đông từ năm 2023 đến 2025.
 
