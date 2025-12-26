@@ -41,6 +41,8 @@ Biểu đồ phân tán (Scatter Plot) cho thấy sự phân bổ đa dạng. Đ
 
 Dashboard cung cấp cái nhìn toàn diện về tình hình kinh doanh tính đến ngày 25/12/2025.
 
+* **File gốc:** [Tải file .pbix tại đây](./DATA_ANALYST_PERSONAL_PORTFOLIO_PROJECT.pbix)
+
 ![Logistics Dashboard](DATA_ANALYST_PERSONAL_PORTFOLIO_LOGISTIC_PROJECT.jpg)
 
 ### Các chỉ số chính (KPIs):
